@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.370646">
+<testcase classname="login page" name="Checking pre-condition,action and results" time="0.370646">
+<system-out><![CDATA[Given user is on SDETtraining.com Home page.................................passed
+When user clicks on login button............................................passed
+Then user is on login page..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
